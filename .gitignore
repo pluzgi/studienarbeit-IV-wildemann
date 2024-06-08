@@ -1,0 +1,25 @@
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignoriere Python virtual environments
+.venv/
+*.pyc
+__pycache__/
+
+# Ignoriere Visual Studio Code-Einstellungen
+.vscode/
+
+# Ignoriere temporäre Dateien
+temp/
+
+# Ignoriere spezifische Output-Dateien
+output/
+*.html
+*.png
+
+# Ignore all .log files
+*.log
+
+# Ignoriere Notebook-Checkpoints
+notebooks/.ipynb_checkpoints/
